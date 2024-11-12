@@ -5,8 +5,6 @@ Recommender systems help users navigate vast catalogs of items by narrowing down
 
 **Business Objective**:  
 - Develop a **Collaborative Filtering-based Movie Recommendation System**.
-- **Predict** user ratings for movies not yet rated.
-- **Minimize prediction error** between actual and predicted ratings using **RMSE** and **MAPE**.
 
 ---
 
